@@ -47,52 +47,6 @@ header nav ul li a.call-to-book {
     font-weight: bold;
 }
 
-.one-way service {
-    text-align: center;
-    background-color: #555;
-    color: #fff;
-    padding: 4rem 2rem;
-}
-
-.one-way service h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-}
-
-.one-way service h1 span {
-    color: #f1c40f;
-}
-
-.one-way service p {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-}
-
-.one-way service .buttons {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-}
-
-.hero .btn {
-    text-decoration: none;
-    padding: 0.8rem 1.5rem;
-    border-radius: 5px;
-    font-weight: bold;
-    font-size: 1rem;
-}
-
-.one-way service .btn.primary {
-    background-color: #f1c40f;
-    color: #fff;
-}
-
-.one-way service .btn.secondary {
-    background-color: #fff;
-    color: #333;
-    border: 1px solid #ccc;
-}
-
 .hero {
     text-align: center;
     background-color: #555;
@@ -230,7 +184,7 @@ hero p {
 }
 
 .our-services h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-bottom: 0.5rem;
 }
 
