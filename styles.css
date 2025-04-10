@@ -223,7 +223,8 @@ hero p {
 }
 
 .service h3 {
-    font-size: 1.2rem;
+    font-size: 2rem;
+    color: chocolate;
     margin-bottom: 0.5rem;
 }
 
